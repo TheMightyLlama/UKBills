@@ -1,0 +1,19 @@
+{
+ "title": "Sessions",
+ "govlink": "http://www.parliament.uk/business/bills-and-legislation/current-bills/previous-bills/",
+ "description": "A list of all sessions",
+ "session" : [
+ 	{
+ 		"sessionid" : "2016-17",
+ 		"govsessionlink": "http://services.parliament.uk/bills/2016-17.html"
+ 	},
+ 	{
+ 		"sessionid" : "20015-16",
+ 		"govsessionlink": "http://services.parliament.uk/bills/2015-16.html"
+ 	},
+ 	{
+ 		"sessionid" : "2014-15",
+ 		"govsessionlink": "http://services.parliament.uk/bills/2014-15.html"
+ 	},
+],
+}

@@ -1,0 +1,45 @@
+{
+ "shorttitle" : "Rehabilitation of Offenders (Amendment)",
+ "govbilllink" : "http://services.parliament.uk/bills/2016-17/rehabilitationofoffendersamendment.html",
+ "govbillrss" : "http://services.parliament.uk/bills/RSS/rehabilitationofoffendersamendment.xml",
+ "longtitle" : "A Bill to amend the Rehabilitation of Offenders Act 1974; to make provision about rehabilitation periods.",
+ "sponsor" : "Lord Ramsbotham",
+ "updated" : "Tue, 24 Jan 2017 18:50:22 GMT",
+ "sessionid" : "2016-17",
+ "event" : [
+ 	"publication" [
+ 	{
+ 		"description" : "Briefing for Lords Stages",
+ 		"publicationlink" : "http://researchbriefings.files.parliament.uk/documents/LIF-2017-0005/LIF-2017-0005.pdf",
+ 		"date" : "Tue, 24 Jan 2017 18:50:22 GMT"
+ 	},
+ 	{
+ 		"description" : "HL Bill 20 (as introduced)",
+ 		"publicationlink" : "http://www.publications.parliament.uk/pa/bills/lbill/2016-2017/0020/17020.pdf",
+ 		"date" : "Fri, 27 May 2016 12:10:38 GMT"
+ 	},
+ 	{
+ 		"description" : "1st reading (Hansard)",
+ 		"publicationlink" : "https://hansard.parliament.uk/lords/2016-05-26/debates/16052638000528/RehabilitationOfOffenders(Amendment)Bill(HL)",
+ 		"date" : "Fri, 27 May 2016 10:23:43 GMT"
+ 	},
+  	{
+ 		"description" : "1st reading (Minutes of Proceedings)",
+ 		"publicationlink" : "http://www.publications.parliament.uk/pa/ld201617/minutes/160606/ldordpap.htm#minproc",
+ 		"date" : "Fri, 27 May 2016 10:23:43 GMT"
+ 	}
+ ],
+ 	"sitting" [
+ 	{
+ 		"progress" : "2nd reading",
+ 		"house" : "Lords",
+ 		"date" : "Wed, 11 Jan 2017 12:33:18 GMT"
+ 	},
+ 	{
+ 		"progress" : "1st reading",
+ 		"house" : "Lords",
+ 		"date" : "Fri, 27 May 2016 10:23:43 GMT"
+ 	}
+ ],
+ ]
+}

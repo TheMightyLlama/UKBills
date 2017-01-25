@@ -1,0 +1,44 @@
+{
+ "title": "Bills",
+ "link": "http://services.parliament.uk/bills",
+ "description": "A list of all bills for the current session",
+ "session" : {
+ 	"sessionid" : "2016-17",
+ 	"govsessionlink": "http://services.parliament.uk/bills/2016-17.html"
+ },
+ "bill":[
+ 	{
+ 		"billid" : "1234",
+ 		"govbilllink" : "http://services.parliament.uk/bills/2016-17/rehabilitationofoffendersamendment.html",
+ 		"govbillrss" : "http://services.parliament.uk/bills/RSS/rehabilitationofoffendersamendment.xml",
+ 		"currenthouse" : "Lords",
+ 		"origin" : "Private Member",
+ 		"sponsor" : "Lord Ramsbotham",
+ 		"shorttitle" : "Rehabilitation of Offenders (Amendment)",
+ 		"longtitle" : "A Bill to amend the Rehabilitation of Offenders Act 1974; to make provision about rehabilitation periods.",
+ 		"updated" : "2017-01-11T12:33:18Z"
+ 	},
+ 	{
+ 		"billid" : "1235",
+ 		"govbilllink" : "http://services.parliament.uk/bills/2016-17/universityoflondon.html",
+ 		"govbillrss" : "http://services.parliament.uk/bills/RSS/universityoflondon.xml",
+ 		"currenthouse" : "Lords",
+ 		"origin" : "Private",
+ 		"sponsor" : "",
+ 		"shorttitle" : "University of London",
+ 		"longtitle" : "A Bill to make new provision for the making of statutes for the University of London; and for related purposes.",
+ 		"updated" : "2017-01-11T12:33:18Z"
+ 	},
+ 	{
+ 		"billid" : "1236",
+ 		"govbilllink" : "http://services.parliament.uk/bills/2016-17/highspeedraillondonwestmidlands.html",
+ 		"govbillrss" : "http://services.parliament.uk/bills/RSS/highspeedraillondonwestmidlands.xml",
+ 		"currenthouse" : "Lords",
+ 		"sponsor" : "Mr Patrick McLoughlin",
+ 		"origin" : "Hybrid",
+ 		"shorttitle" : "High Speed Rail (London - West Midlands)",
+ 		"longtitle" : "A bill to make provision for a railway between Euston in London and a junction with the West Coast Main Line at Handsacre in Staffordshire, with a spur from Old Oak Common in the London Borough of Hammersmith and Fulham to a junction with the Channel Tunnel Rail Link at York Way in the London Borough of Islington and a spur from Water Orton in Warwickshire to Curzon Street in Birmingham; and for connected purposes.",
+ 		"updated" : "2017-01-11T12:33:18Z"
+ 	}
+ ]
+}
